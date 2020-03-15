@@ -5,7 +5,7 @@ This is the third project of EECS-337. The purpose of this project is to create 
 ### Installing
 Clone this repo and install packages
 ```
-$ git clone https://github.com/afv22/project2-recipes.git
+$ git clone https://github.com/rshukla123/project3-chatbot.git
 $ cd project3-chatbot/
 $ pip3 install -r requirements.txt
 ```
