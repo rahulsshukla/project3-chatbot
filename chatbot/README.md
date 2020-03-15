@@ -13,8 +13,9 @@ If you don't have pip you will need to install it.
 
 ## Getting Started
 Follow the instruction:
-(1) run driver.py
-(2) Input a valid url from allrecipes
-(3) Follow the instructions
-(4) Enjoy cooking!
+(1) cd into chatbot
+(2) run driver.py
+(3) Input a valid url from allrecipes
+(4) Follow the instructions
+(5) Enjoy cooking!
 
