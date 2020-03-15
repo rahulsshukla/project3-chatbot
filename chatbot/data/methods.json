@@ -1,0 +1,74 @@
+{
+  "bake": {
+    "synonyms": [
+      "roast",
+      "broil"
+    ],
+    "tools": [
+      "oven",
+      "broiler"
+    ]
+  },
+  "boil": {
+    "synonyms": [
+      "bubble"
+    ],
+    "tools": [
+
+    ]
+  },
+  "braise": {
+    "synonyms": [
+
+    ],
+    "tools": [
+
+    ]
+  },
+  "saute": {
+    "synonyms": [
+      "sear",
+      "sautee",
+      "cook"
+    ],
+    "tools": [
+      "skillet",
+      "pan"
+    ]
+  },
+  "cut": {
+    "synonyms": [
+      "slice",
+      "chop",
+      "dice",
+      "mince"
+    ],
+    "tools": [
+      "knife"
+    ]
+  },
+  "fry": {
+    "synonyms": [
+
+    ],
+    "tools": [
+      "fryer"
+    ]
+  },
+  "steam": {
+    "synonyms": [
+
+    ],
+    "tools": [
+      "steamer"
+    ]
+  },
+  "mix": {
+    "synonyms": [
+      "toss"
+    ],
+    "tools": [
+
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+steak
+lamb
+duck
+pork
+chicken
+beef
+quail
+turkey
+ham 
+salami
+sausage
+bratwurst
+brisket
+ground beef
+veal
+tenderloin
+venison
+salmon
+tuna
+sausage
+goat
+meatball
+shrimp 
+crab 
+lobster
+hot dog
+bacon
+burger
+patty
+meat
