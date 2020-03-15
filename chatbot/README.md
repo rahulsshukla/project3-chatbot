@@ -13,7 +13,7 @@ If you don't have pip you will need to install it.
 
 ## Getting Started
 Follow the instruction:
-(1) cd into chatbot
+(1) cd chatbot/
 (2) run driver.py
 (3) Input a valid url from allrecipes
 (4) Follow the instructions
